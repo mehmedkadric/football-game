@@ -11,7 +11,7 @@ This repository contains a Django/React app called "FootScore" that serves as a 
 - Contact page for users to get in touch
 
 ## Installation
-Clone the repository: `git clone https://github.com/mehmedkadric/football-game.git`
+- Clone the repository: `git clone https://github.com/mehmedkadric/football-game.git`
 ### Set up the Django backend:
 - Navigate to the backend directory: cd backend
 - Install the required dependencies: `pip install django djangorestframework corsheaders`
