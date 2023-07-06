@@ -1,4 +1,8 @@
 # FootScore
+
+## App Preview
+![footscore_imgs](https://github.com/mehmedkadric/football-game/assets/17452349/2fabd4b4-4399-40d6-87e6-096d33a85ae1)
+
 ## Description
 This repository contains a Django/React app called "FootScore" that serves as a simple application to learn best practices in Django and React development. The app allows users to play a football-themed quiz game and view a leaderboard of top gamers.
 
@@ -49,6 +53,3 @@ Fork the repository
 - kadricze@gmail.com
 
 Feel free to customize the project overview further and add any additional information that may be relevant to your project.
-
-## App Preview
-![footscore_imgs](https://github.com/mehmedkadric/football-game/assets/17452349/2fabd4b4-4399-40d6-87e6-096d33a85ae1)
