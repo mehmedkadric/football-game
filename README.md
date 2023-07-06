@@ -3,7 +3,7 @@
 This repository contains a Django/React app called "FootScore" that serves as a simple application to learn best practices in Django and React development. The app allows users to play a football-themed quiz game and view a leaderboard of top gamers.
 
 ## Features
-- User authentication and registration
+- Simple user registration
 - Quiz game with multiple-choice questions
 - Leaderboard showcasing top gamers
 - Integration of Django backend with React frontend
