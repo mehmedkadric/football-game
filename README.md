@@ -13,14 +13,14 @@ This repository contains a Django/React app called "FootScore" that serves as a 
 ## Installation
 - Clone the repository: `git clone https://github.com/mehmedkadric/football-game.git`
 ### Set up the Django backend:
-- Navigate to the backend directory: cd backend
+- Navigate to the backend directory: `cd backend`
 - Install the required dependencies: `pip install django djangorestframework corsheaders`
-- Apply migrations: python manage.py migrate
-- Start the Django server: python manage.py runserver
+- Apply migrations: `python manage.py migrate`
+- Start the Django server: `python manage.py runserver`
 ### Set up the React frontend:
-- Navigate to the frontend directory: cd frontend
-- Install the required dependencies: npm install
-- Start the React development server: npm start
+- Navigate to the frontend directory: `cd frontend`
+- Install the required dependencies: `npm install`
+- Start the React development server: `npm start`
 ## Usage
 - Access the application in a web browser by visiting http://localhost:3000 (backend port is 8000)
 - Simple user registration
